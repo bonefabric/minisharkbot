@@ -3,7 +3,7 @@ Twhich chat bot
 
 Для работы бота необходим пакет .NET Runtime 6.0, досупный для скачивания на 
 [сайте](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
-выбрав свою тип системы в левом разделе "Run console apps."
+выбрав свой тип системы в левом разделе "Run console apps."
 
 Скачать бота можно либо по [ссылке](https://codeload.github.com/bonefabric/minisharkbot/zip/refs/tags/v1),
 либо в правой части в разделе Releases.
