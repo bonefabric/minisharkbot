@@ -1,0 +1,12 @@
+﻿{
+  "notifications": [
+    {
+      "message": "test notification",
+      "timeout": 10
+    },
+    {
+      "message": "test second 15 secs",
+      "timeout": 15
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "commands": [
+    {
+      "command": "tg",
+      "message": "this is my telegram!"
+    },
+    {
+      "command": "ds",
+      "message": "this is my discord, $user"
+    }
+  ]
+}
